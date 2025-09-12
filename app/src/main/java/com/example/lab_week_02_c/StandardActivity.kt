@@ -1,14 +1,10 @@
 package com.example.lab_week_02_c
 
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import android.util.Log
 import android.widget.Button
 import android.content.Intent
-import android.view.View
 
 class StandardActivity : AppCompatActivity() {
     companion object{
